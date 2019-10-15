@@ -1,0 +1,39 @@
+body{
+	background-image:linear-gradient(to left, rgb(29,123,188),rgb(26,109,168));
+	color:white;
+	
+}
+
+	
+
+#banner{ 
+	font-family:serif;
+	color:rgb(255,255,255);
+	border-top:2px solid white;
+	border-bottom: 2px solid white;
+
+}
+img{ 
+	border-radius: 10px;
+}
+#rankings{ 
+
+width: 300px;
+
+}
+li{
+	
+	padding: 20px;
+	height: 20px;
+	margin:10px;
+	border:2px solid white;
+	border-radius:10px;
+}
+#display{
+	width:400px;
+	color:rgb(255,255,255);
+	border: 5px solid rgb(26,109,168);
+	border-radius: 10px;
+	background-color:rgb(26,109,168);
+	height: 300px;
+}
